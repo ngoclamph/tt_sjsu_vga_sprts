@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_sjsu_vga_sprts user_project (
+  tt_sjsu_vga_sprts_prbs31 user_project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
