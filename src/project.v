@@ -130,7 +130,7 @@ module hvsync_generator(clk, reset, hsync, vsync, display_on, hpos, vpos);
 endmodule
 
 
-module tt_um_rejunity_vga_test01 (
+module tt_um_sprts (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
