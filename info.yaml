@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Sport Exhibition"      # Project title
+  title:        "Sports Exhibition"      # Project title
   author:       "Lam, Jonathan, and Andrea"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A showcase of sports"      # One line description of what your project does
